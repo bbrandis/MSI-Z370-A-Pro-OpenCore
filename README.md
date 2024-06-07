@@ -6,7 +6,7 @@
 
 - This config should only be used to help with troubleshooting, or help you get off the ground.
 
-Here is a list of hardware for which this config was made.<br/>
+Here is a list of the hardware for which this config was made.
 
 Board: MSI Z370-A Pro
 Graphics: Sapphire Nitro+ Radeon RX 580 4GB
