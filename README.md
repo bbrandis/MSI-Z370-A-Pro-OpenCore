@@ -8,12 +8,14 @@
 
 Here is a list of hardware for which this config was made.<br/>
 
-Board: MSI Z370-A Pro<br/>
-Graphics: Sapphire Nitro+ Radeon RX 580 4GB<br/>
-Processor: Intel Core i5-8400<br/>
-Drive: Samsung 970 Evo Plus 500GB NVMe drive<br/>
-Memory: shouldn't matter much<br/>
+Board: MSI Z370-A Pro
+Graphics: Sapphire Nitro+ Radeon RX 580 4GB
+Processor: Intel Core i5-8400
+Drive: Samsung 970 Evo Plus 500GB NVMe drive
+Memory: shouldn't matter much
 
-This config wasn't used with macOS newer than 10.15 Catalina, so compatibility with macOS 11.0+ is unknown.<br/>
+This config wasn't used with macOS newer than 10.15 Catalina,
+so compatibility with macOS 11.0+ is unknown.
+
 This config skips the boot picker and has hotkey polling enabled.
 ```
