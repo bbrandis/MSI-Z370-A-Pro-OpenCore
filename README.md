@@ -6,12 +6,12 @@
 
 - This config should only be used to help with troubleshooting, or help you get off the ground.
 
-Here is a list of hardware for which this config was made.
+Here is a list of hardware for which this config was made.<br/>
 
-Board: MSI Z370-A Pro
-Graphics: Sapphire Nitro+ Radeon RX 580 4GB
-Processor: Intel Core i5-8400
-Drive: Samsung 970 Evo Plus 500GB NVMe drive
-Memory: shouldn't matter much
+Board: MSI Z370-A Pro<br/>
+Graphics: Sapphire Nitro+ Radeon RX 580 4GB<br/>
+Processor: Intel Core i5-8400<br/>
+Drive: Samsung 970 Evo Plus 500GB NVMe drive<br/>
+Memory: shouldn't matter much<br/>
 
-This config wasn't used with macOS newer than 10.15 Catalina, so compatibility with macOS 11.0+ is unknown.
+This config wasn't used with macOS newer than 10.15 Catalina, so compatibility with macOS 11.0+ is unknown.<br/>
