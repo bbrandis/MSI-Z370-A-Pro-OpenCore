@@ -4,7 +4,7 @@
 
 - This is not a drop-in replacement, and I do not recommend using it as-is.
 
-- This config should only be used to help with troubleshooting, or help you get off the ground.
+- This config should only be used to help with troubleshooting, or to help you get off the ground.
 
 Here is a list of the hardware for which this config was made.
 
